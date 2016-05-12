@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-d3040b0c2293028393dc1190963a064e109c8c2c	repo3-ptl
+# UUID          Group Name
+False 	Non-Interactive Users
+96b7da3b1f4dacd221806ede6c0edbc0f6452372       	repo3-core
+d3040b0c2293028393dc1190963a064e109c8c2c        	repo3-ptl
+global:Registered-Users		Registered Users
